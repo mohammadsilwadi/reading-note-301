@@ -1,4 +1,4 @@
-  # Component
+# Component
 A component is a modular, portable, replaceable, and reusable set of well-defined functionality that encapsulates its implementation and exporting it as a higher-level interface.
  A component is one of the core building blocks of React.
 
@@ -10,11 +10,11 @@ we mainly have two types of components:
 ## Charactistics of a component
 
 
-   + Reusability − Components are usually designed to be reused in different situations in different applications. However, some components may be designed for a specific task.
++ Reusability − Components are usually designed to be reused in different situations in different applications. However, some components may be designed for a specific task.
 
-   + Replaceable − Components may be freely substituted with other similar components.
++ Replaceable − Components may be freely substituted with other similar components.
 
-   + Not context specific − Components are designed to operate in different environments and contexts.
+ + Not context specific − Components are designed to operate in different environments and contexts.
 
  +   Extensible − A component can be extended from existing components to provide new behavior.
 
@@ -52,3 +52,7 @@ we mainly have two types of components:
 ## Flow of props
 
 Props can only be passed to components in one-way (parent to child)
+
+
+## Things I want to know more about
+more explanation for react .
