@@ -9,3 +9,5 @@
 * [Introduction to React and Components.](https://mohammadsilwadi.github.io/reading-note-301/read01)
 
 
+* [State and Props](https://mohammadsilwadi.github.io/reading-note-301/read02)
+
