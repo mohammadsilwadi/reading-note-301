@@ -19,9 +19,6 @@ Mounting, Updating, and Unmounting are the three phases of the component lifecyc
 + componentDidMount
 + componentWillUnmount
 
-## life cycle
-
-Mounting, Updating, and Unmounting are the three phases of the component lifecycle.
 
 # State and Props 
 
