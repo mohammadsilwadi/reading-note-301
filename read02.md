@@ -1,5 +1,6 @@
-# State and Props
+# lifecycle
 
+Mounting, Updating, and Unmounting are the three phases of the component lifecycle.
 ![COMPARISON OPERATORS](https://miro.medium.com/max/2000/0*0saPKFiTUk6W3FYp).
 
 ## what happens first, the ‘render’ or the ‘componentDidMount’?
@@ -18,9 +19,11 @@
 + componentDidMount
 + componentWillUnmount
 
-## lifecycle
+## life cycle
 
 Mounting, Updating, and Unmounting are the three phases of the component lifecycle.
+
+# State and Props 
 
 ## What types of things can you pass in the props?
 
