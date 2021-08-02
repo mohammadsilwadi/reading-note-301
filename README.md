@@ -11,3 +11,4 @@
 
 * [State and Props](https://mohammadsilwadi.github.io/reading-note-301/read02)
 
+* [ Passing Functions as Props](https://mohammadsilwadi.github.io/reading-note-301/read0)
