@@ -13,3 +13,5 @@
 * [Passing Functions as Props](https://mohammadsilwadi.github.io/reading-note-301/read03)
 
 * [React and Forms](https://mohammadsilwadi.github.io/reading-note-301/read04)
+
+* [Putting it all together](https://mohammadsilwadi.github.io/reading-note-301/read05)
