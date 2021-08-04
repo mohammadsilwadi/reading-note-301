@@ -1,5 +1,5 @@
 # Putting it all together
-
+* [reading-note-301](https://mohammadsilwadi.github.io/reading-note-301/)
 ## React Docs - thinking in React
 
 ### How would you break a mock into a component heirarchy?
