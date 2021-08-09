@@ -21,7 +21,7 @@ on nouns (the resource) and not verbs (the operations on the resource).
 https://adventure-works.com/orders // Good
 
 ## What does it mean to have a ‘chatty’ web API? Is this a good or a bad thing?
-good thing , Chatty API is one that requires consumer to make tremendous (subjective matter) amount of distinct API calls to get needed information about a resource.
+bad thing , Chatty API is one that requires consumer to make tremendous (subjective matter) amount of distinct API calls to get needed information about a resource.
 
 ## What status code does a successful GET request return?
 2xx
