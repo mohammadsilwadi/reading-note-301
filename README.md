@@ -22,4 +22,4 @@
 
 * [REST](https://mohammadsilwadi.github.io/reading-note-301/read07)
 * [APIs](https://mohammadsilwadi.github.io/reading-note-301/read08)
-* [FUNCTIONAL PROGRAMMING](https://mohammadsilwadi.github.io/reading-note-301/read08)
+* [FUNCTIONAL PROGRAMMING](https://mohammadsilwadi.github.io/reading-note-301/read09)
