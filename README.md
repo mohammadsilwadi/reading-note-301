@@ -24,3 +24,4 @@
 * [APIs](https://mohammadsilwadi.github.io/reading-note-301/read08)
 * [FUNCTIONAL PROGRAMMING](https://mohammadsilwadi.github.io/reading-note-301/read09)
 * [In memory storage](https://mohammadsilwadi.github.io/reading-note-301/read10)
+* [Authentication](https://mohammadsilwadi.github.io/reading-note-301/read11)
