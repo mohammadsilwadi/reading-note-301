@@ -53,4 +53,4 @@ uses OIDC to implement web sign-in that is very similar to the way SAML and WS-F
  
  ## Things I want to know more about
  
-know more about how to secure the website and the applications
+knowing  more about how to secure the website and the applications
