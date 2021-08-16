@@ -46,7 +46,7 @@
 
 ### What does the /:id mean in a route?
 
- it is a parameter.
+The req. params property is an object containing properties mapped to the named route “parameters”. For example, if you have the route /student/:id, then the “id” property is available as req.params.id. This object defaults to {}.
 
 ### What is the difference beween PUT and PATCH?
 
