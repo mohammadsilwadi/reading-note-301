@@ -8,9 +8,9 @@ Around 1984 is when something changed. There is no one answer, but one of them i
 they gain a lot of experience before they go to college for computer science.
 
 ### What three take-a-ways do you have looking at this data 
-1- male female ratio
-2-I think Indiegogo should provide information to other companies interested in equality
-3-ceo ratio
++ male female ratio
++ I think Indiegogo should provide information to other companies interested in equality
++ ceo ratio
 
 ### When are diversity efforts most successful?
 when every body known the part that he of she must do 
