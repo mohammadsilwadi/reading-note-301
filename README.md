@@ -27,3 +27,4 @@
 * [Authentication](https://mohammadsilwadi.github.io/reading-note-301/read11)
 * [Mongo and Mongoose](https://mohammadsilwadi.github.io/reading-note-301/read12)
 * [CRUD](https://mohammadsilwadi.github.io/reading-note-301/read13)
+* [Diversity & Inclusion in the Tech Industry](https://mohammadsilwadi.github.io/reading-note-301/read14)
