@@ -3,8 +3,7 @@
 ## Components
 
 A component is a modular, portable, replaceable, and reusable set of well-defined functionality that encapsulates its implementation and exporting it as a higher-level interface.
-A component is one of the core building blocks of React.
-Components have props and status we use them to make our react app to interact with our react app  we can changethe status i by using set status the prop are immutability we cant change it.
+ A component is one of the core building blocks of React. Components have props and status we use them to make we react app to interact with our react app we can change the status I by using set status the prop are immutability we cant change it.
 
 ## lists and keys
 
